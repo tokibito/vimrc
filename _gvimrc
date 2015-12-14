@@ -1,0 +1,7 @@
+colorscheme django
+"set guifont=‚l‚r_ƒSƒVƒbƒN:h10
+set guifont=VL_ƒSƒVƒbƒN:h10
+set lines=40
+set columns=140
+set guioptions-=T
+set guioptions-=m
